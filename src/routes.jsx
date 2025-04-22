@@ -23,5 +23,4 @@ const routes = [
     element: <Actors />
    },
   ];
-
 export default routes;
